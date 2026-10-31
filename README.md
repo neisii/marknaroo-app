@@ -4,6 +4,12 @@ A lightweight Markdown viewer PWA.
 
 **App:** https://neisii.github.io/marknaroo-app/
 
+![MarkNaroo — document view](screenshots/standalone-light.png)
+
+| Recent documents | Narrow window |
+|---|---|
+| ![Recent documents menu](screenshots/standalone-menu.png) | <img src="screenshots/standalone-narrow.png" alt="Table of contents overlay" width="220"> |
+
 Install it from Chrome (install icon in the address bar, or the [Install] button on the empty screen), then open `.md` files with it via "Open with" / double-click from your OS file browser — the first time, Chrome shows a one-time confirmation dialog.
 
 It works offline once installed. Local files are read on your device and are never uploaded anywhere.
